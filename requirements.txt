@@ -1,0 +1,5 @@
+GitPython 
+aiofiles
+aiohttp
+pytest
+pytest-asyncio
